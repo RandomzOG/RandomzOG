@@ -1,34 +1,13 @@
-# Foobar
+# Randomz
 
-Foobar is a Python library for dealing with word pluralization.
+Hello Its Me Randomz.
 
-## Installation
+## About Me
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Hello There! Im Randomz, Im A Developer For About Every Platform (python, node.js, javascript, html, css, discord.js, c++, c#, unity, etc.) I Also Have A Website [Visit Site](https://randomz.cf/).
 
-```bash
-pip install foobar
-```
+## Discord
 
-## Usage
+Please Join My Server.
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Discord Server](https://discord.gg/XhcYh2Y6bt)
